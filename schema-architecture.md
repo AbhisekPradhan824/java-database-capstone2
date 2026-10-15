@@ -4,7 +4,7 @@ This Spring Boot application uses both MVC and REST controllers. Thymeleaf templ
 **Numbered flow of data and control**
 Create a numbered list (1 to 7) describing each step of the data flow based on the architecture diagram. Use your own words or base your summary on the explanation above. You do not have to include the architectural diagram itself.
 
-Example format:
+**Example format:**
 1. User accesses AdminDashboard or Appointment pages.
 2. The action is routed to the appropriate Thymeleaf or REST controller.
 3. The controller calls the service layer...
